@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DashBord2</string>
+    <string name="always_check_this">Always Check this</string>
+    <string name="notice">Notice</string>
+</resources>
